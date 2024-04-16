@@ -41,7 +41,7 @@ Hi! My name is Abdelrahman Mostafa Mohamed
   <br />
   <img width="12" />
   <img src="https://cdn./>
+  <br clear="both">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
