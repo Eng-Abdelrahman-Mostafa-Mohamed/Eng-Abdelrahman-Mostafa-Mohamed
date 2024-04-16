@@ -42,6 +42,6 @@ Hi ! My name is Abdelrahman Mostafa Mohamed
           <a href="https://wakatime.com/@942ea657-a086-48e0-9dde-b92b8a1fa77e"><img src="https://wakatime.com/badge/user/942ea657-a086-48e0-9dde-b92b8a1fa77e.svg" alt="Total time coded since Dec 23 2022" /></a>
   <br />
   <img width="12" />
-  <img src="https://cdn./>
-</div>
+  <img src="https://cdn.
+
 
