@@ -42,4 +42,6 @@ Hi! My name is Abdelrahman Mostafa Mohamed
   <img width="12" />
   <img src="https://cdn./>
 </div>
+## Progress (This section will be automatically updated with Wakatime stats.)
+
 
