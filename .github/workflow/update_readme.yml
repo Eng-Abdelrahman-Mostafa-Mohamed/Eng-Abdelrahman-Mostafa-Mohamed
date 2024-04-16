@@ -1,0 +1,38 @@
+name: Update Wakatime Stats
+
+on: [push]  # Trigger workflow on every push
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest  # Specify runner environment
+
+    steps:
+      - uses: actions/checkout@v3  # Checkout your repository code
+
+      - name: Install Python dependencies (adjust if needed)
+        run: |
+          python -m pip install requests  # Install requests library
+
+      - name: Get Wakatime API Key from Secrets (optional)
+        uses: actions/secrets@v3  # Access secrets stored in GitHub Actions
+        name: wakatime_api_key
+        with:
+          secrets: WAKATIME_API_KEY  # Name of your secret holding the API key
+
+      - name: Generate Wakatime stats markdown
+        env:
+          WAKATIME_API_KEY: ${{ secrets.wakatime_api_key }}  # Use secret if available
+        run: |
+          python update_readme.py  # Replace with the actual script name
+          # Consider adding error handling for script execution
+
+      - name: Update README file
+        uses: apparentlymart/upsert-branch-from-file@v1  # External action
+        with:
+          path: https://github.com/Eng-Abdelrahman-Mostafa-Mohamed/Eng-Abdelrahman-Mostafa-Mohamed/blob/Eng-Abdelrahman-Mostafa-Mohamed/README.md # Path to your README file
+          content: ${{ steps.generate_wakatime_stats.outputs.stats_markdown }}  # Content to insert
+          manual-commit: false  # Don't create a separate commit
+          create_branch: false  # Don't create a new branch
+          force: true  # Overwrite existing content at the specified location
+          start-marker: '## Progress (This section will be automatically updated with Wakatime stats.)'  # Optional placement marker
+          end-marker: ''  # Optional end marker (leave empty if appending to the end)
