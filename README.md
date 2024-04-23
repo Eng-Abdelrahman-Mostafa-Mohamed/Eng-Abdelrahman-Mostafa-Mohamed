@@ -44,4 +44,4 @@ Hi! My name is Abdelrahman Mostafa Mohamed
 </div>
 ## Progress (This section will be automatically updated with Wakatime stats.)
 
-
+<figure><embed src="https://wakatime.com/share/@ENG_Abdelrahman/4c7df0e0-96d8-4f0c-bbcb-ce375be2ecae.svg"></embed></figure>
