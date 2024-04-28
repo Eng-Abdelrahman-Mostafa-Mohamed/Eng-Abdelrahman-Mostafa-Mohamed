@@ -43,6 +43,6 @@ Hi! My name is Abdelrahman Mostafa Mohamed
   <img src="https://cdn./>
 </div>
 
-
+![]("src="https://wakatime.com/share/@ENG_Abdelrahman/bb686921-13b4-4b37-a23e-5cc2e969598f.svg")
 ## Progress (This section will be automatically updated with Wakatime stats.)
 
