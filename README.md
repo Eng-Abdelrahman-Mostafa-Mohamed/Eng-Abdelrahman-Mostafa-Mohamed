@@ -15,6 +15,12 @@ Hi! My name is Abdelrahman Mostafa Mohamed
 
 ###
 
+<figure>
+  <embed src="https://wakatime.com/share/@ENG_Abdelrahman/0109bdc7-9e9f-4b1e-8503-39b63d116157.svg"></embed>
+</figure>
+
+###
+
 <img align="right" height="150" src="https://blog.paperspace.com/content/images/2020/01/Intro-HELLO-FUTURE-1920x1080_v2.gif" alt="Hello Future animation" />
 
 ###
@@ -37,14 +43,9 @@ Hi! My name is Abdelrahman Mostafa Mohamed
   <a href="https://www.kaggle.com/abdelrahmanmostafa99"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" /></a> 
   <a href="https://www.linkedin.com/in/abdelrahman-mostafa-mohamed"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a> 
   <a href="https://huggingface.co/Abdelrahman-Mostafa"><img src="https://svglogos.net/wp-content/uploads/hugging-face.svg" alt="HuggingFace" height="30"></a>
-          <a href="https://wakatime.com/@942ea657-a086-48e0-9dde-b92b8a1fa77e"><img src="https://wakatime.com/badge/user/942ea657-a086-48e0-9dde-b92b8a1fa77e.svg" alt="Total time coded since Dec 23 2022" /></a>
+  <a href="https://wakatime.com/@942ea657-a086-48e0-9dde-b92b8a1fa77e"><img src="https://wakatime.com/badge/user/942ea657-a086-48e0-9dde-b92b8a1fa77e.svg" alt="Total time coded since Dec 23 2022" /></a>
   <br />
   <img width="12" />
   <img src="https://cdn./>
-  <img link="https:https://wakatime.com/share/@ENG_Abdelrahman/bb686921-13b4-4b37-a23e-5cc2e969598f.svg" />
+  
 </div>
-
-
-
-
-
