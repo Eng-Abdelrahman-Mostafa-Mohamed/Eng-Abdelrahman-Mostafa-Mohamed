@@ -43,8 +43,7 @@ Hi! My name is Abdelrahman Mostafa Mohamed
   <img src="https://cdn./>
 </div>
 
+!Wakatime Activity https://wakatime.com/share/@ENG_Abdelrahman/bb686921-13b4-4b37-a23e-5cc2e969598f.svg
 
-## Progress (This section will be automatically updated with Wakatime stats.)
-![](https://wakatime.com/share/@ENG_Abdelrahman/bb686921-13b4-4b37-a23e-5cc2e969598f.svg)
-<figure><embed src="https://wakatime.com/share/@ENG_Abdelrahman/3f39cd15-b5c1-4b8f-aeab-fa0cf75615fd.svg"></embed></figure>
+
 
