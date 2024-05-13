@@ -41,10 +41,8 @@ Hi! My name is Abdelrahman Mostafa Mohamed
   <br />
   <img width="12" />
   <img src="https://cdn./>
-
-  <img src="https://wakatime.com/share/@ENG_Abdelrahman/bb686921-13b4-4b37-a23e-5cc2e969598f.svg">
 </div>
-
+<img src="https://wakatime.com/share/@ENG_Abdelrahman/bb686921-13b4-4b37-a23e-5cc2e969598f.svg">
 
 
 
