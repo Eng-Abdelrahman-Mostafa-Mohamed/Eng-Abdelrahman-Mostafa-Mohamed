@@ -46,5 +46,5 @@ Hi! My name is Abdelrahman Mostafa Mohamed
   <br />
   <img width="12" />
   <img src="https://cdn./>
-  
+  <a href="https://wakatime.com/@942ea657-a086-48e0-9dde-b92b8a1fa77e"><img src="https://wakatime.com/share/@ENG_Abdelrahman/0109bdc7-9e9f-4b1e-8503-39b63d116157.svg" alt="Total coded since Dec 23 2022" /></a>
 </div>
