@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Eng+Abdelrahman+Mostafa+;Hello+in+my+repository+)](https://git.io/typing-svg)    
 
-!Waving Hand Joypixels Sticker
+![Waving Hand Joypixels Sticker](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)
+from [Waving Hand Stickers](https://tenor.com/search/waving+hand-stickers)
+
 
 
 - I'm a Senior AI Student at Cairo University
