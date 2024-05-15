@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Eng+Abdelrahman+Mostafa+;Hello+in+my+repository+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Eng+Abdelrahman+Mostafa+;Hello+in+my+repository+)](https://git.io/typing-svg)    ![Uploading image.png…]()
+
 
 - I'm a Senior AI Student at Cairo University
 - I trained at CRT-companies including Huawei-ICT, Science-Land
