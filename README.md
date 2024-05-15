@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Eng+Abdelrahman+Mostafa+;Hello+in+my+repository+)](https://git.io/typing-svg)    
 
 ![](https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif)
+<img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" alt="👋" width="30">
+
 
 
 
